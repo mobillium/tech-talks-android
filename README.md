@@ -1,2 +1,3 @@
-# tech-talks-android
-Collection of Tech Talks resources
+# Android Tech Talk Resources
+
+
